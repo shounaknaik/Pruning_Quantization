@@ -3,7 +3,7 @@
 Pruning and Quantization of VGG16 Network for Image Classification on CIFAR10 dataset. This involves both fine-grained pruning and channel pruning. The model is also K-means quantized.
 
 ## VGG Network 
-<img src="./images/VGGNetwork.png" align = "center">
+<img src="./images/vggnet.png" align = "center">
 
 ## Pruning Visualization
 
